@@ -1,0 +1,12 @@
+{
+  "name": "update-all",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "ramda": "^0.28.0",
+    "yafu": "^2.0.2"
+  }
+}
